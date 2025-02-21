@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwe\\source\\repos\\dll_hijacking_test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{686132C9-E3D4-4A38-81D0-6EE2330CF67D}|Dll1\\Dll1.vcxproj|C:\\Users\\qwe\\source\\repos\\dll_hijacking_test1\\Dll1\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{686132C9-E3D4-4A38-81D0-6EE2330CF67D}|Dll1\\Dll1.vcxproj|solutionrelative:Dll1\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686132C9-E3D4-4A38-81D0-6EE2330CF67D}|Dll1\\Dll1.vcxproj|C:\\Users\\qwe\\source\\repos\\dll_hijacking_test1\\Dll1\\Dll1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{686132C9-E3D4-4A38-81D0-6EE2330CF67D}|Dll1\\Dll1.vcxproj|solutionrelative:Dll1\\Dll1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\qwe\\source\\repos\\dll_hijacking_test1\\Dll1\\dllmain.cpp",
+              "RelativeDocumentMoniker": "Dll1\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\qwe\\source\\repos\\dll_hijacking_test1\\Dll1\\dllmain.cpp",
+              "RelativeToolTip": "Dll1\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T11:10:00.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dll1.cpp",
+              "DocumentMoniker": "C:\\Users\\qwe\\source\\repos\\dll_hijacking_test1\\Dll1\\Dll1.cpp",
+              "RelativeDocumentMoniker": "Dll1\\Dll1.cpp",
+              "ToolTip": "C:\\Users\\qwe\\source\\repos\\dll_hijacking_test1\\Dll1\\Dll1.cpp",
+              "RelativeToolTip": "Dll1\\Dll1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T11:09:58.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
